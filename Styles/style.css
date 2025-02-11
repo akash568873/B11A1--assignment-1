@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+header{
+
+    background-color: rgba(198, 228, 214, 1);
+    margin: 113.6px 128px ;
+    border-radius: 19.2px;
+    padding: 100px;
+    width: 1,024px;
+    height: 448px;
+    display: flex;
+    justify-content: space-between ;
+}
+
+.ban{
+        text-decoration-color: rgba(78, 75, 75, 0.5);
+}
+.bd{
+    padding-left: 48px;
+    padding-top: 129.6px;
+    width: 497.6px;
+    text-align: top left;
+    
+}
+
+.hero{
+    display: flex;
+    justify-content: right;
+   
+    
+}
+
+.btn{
+    background-color: rgba(0, 106, 80, 1);
+    border-radius: 6.4px;
+    height: 56px;
+    width: 216px;
+    color: white;
+
+
+  
+}
