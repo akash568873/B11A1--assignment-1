@@ -246,9 +246,52 @@ margin-right: 128px;
         padding:30px;
         box-sizing: border-box;;
         gap: 24px;
-        width: 240px;
+        width:260px;
         text-align: center;
         margin: 0px 24px;
+}
+.donet-card-1{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 12.4px;
+    background: rgb(198, 228, 214);
+    padding:30px;
+    box-sizing: border-box;;
+    gap: 24px;
+    width: 240px;
+    text-align: center;
+    margin: 0px 24px;
+}
+
+.tx{
+    text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 24px;
+padding: 20px 40px 20px 40px;
+}
+
+.txt{
+    box-sizing: border-box;
+border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 255, 255);
+padding: 16px 32px 16px 32px;
+width: 825.6px;
+height: 51.2px
+
+}
+
+.btn-d{
+    width: 120.8px;
+    height: 44.8px;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.1);
+border-radius: 6.4px;
+
+background: rgb(0, 106, 80);
+color: white;
+
 }
 
 
