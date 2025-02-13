@@ -102,7 +102,7 @@ header{
 .dgm-card{
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: left;
     align-items: flex-start;
     gap: 60px;
     padding: 25.6px;
@@ -119,6 +119,27 @@ padding: 25.6px;
 gap:19.2px ;
 }
 
+.dgm-box-1{
+border-radius: 12.8px;
+background: rgb(198, 228, 214);
+width: 328.536px;
+height: 260px;
+padding: 25.6px;
+gap:19.2px ;
+
+}
+
+
+.dgm-box-2{
+
+border-radius: 12.8px;
+background: rgb(247, 235, 207);
+width: 328.536px;
+height: 260px;
+padding: 25.6px;
+gap:19.2px ;
+
+}
 .btn-lm{
     color: rgb(255, 255, 255);
     font-size: 12.8px;
@@ -129,3 +150,81 @@ gap:19.2px ;
     padding: 8.8px 16px 8.8px 16px;  
 
 }
+
+.btn-lm-1{
+    color: rgb(255, 255, 255);
+    font-size: 12.8px;
+    margin: 25.6px ,25.6px;
+    
+    border-radius:6.4px;
+    background: rgb(9, 161, 92);
+    padding: 8.8px 16px 8.8px 16px;  
+
+}
+
+.btn-lm-2{
+    color: rgb(255, 255, 255);
+    font-size: 12.8px;
+    margin: 25.6px ,25.6px;
+    
+    border-radius:6.4px;
+    background: rgb(255, 194, 57); 
+    padding: 8.8px 16px 8.8px 16px;  
+
+}
+.rn{
+    margin-top: 64px;
+    margin-left: 150px;
+    margin-right: 128px;
+    
+}
+
+.rnh{
+    font-size: 32px;
+
+}
+
+.bls{
+    background: rgb(255, 255, 255);
+    border-radius: 19.2px;
+    display: flex;
+    justify-content: left;
+    margin-left: 128px;
+    margin-right: 128px;
+    gap: 34px;
+    padding: 38.4px;
+    border: 1.5px solid rgba(14, 14, 14, 0.15);
+    margin-bottom: 15px;
+}
+.blns{
+    
+    order: 1;
+    flex-grow: 1;
+    padding-bottom: 64px;
+
+}
+.imgst{
+    border-radius:19.2px;
+}
+
+.btn-rm{
+    margin: 32px 0px;
+    color: rgb(255, 255, 255);
+    font-size: 12.8px;
+    border-radius:6.4px;
+    background: rgb(9, 161, 92);
+    padding: 8.8px 16px 8.8px 16px;
+}
+
+.bls-1{
+   
+
+}
+
+.blns{
+   
+
+}
+
+
+
