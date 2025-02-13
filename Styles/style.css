@@ -20,10 +20,11 @@ header{
 .bd{
     width: 497.6px;
     text-align: top left;
-    font-size: 23px;
+    font-size: 26px;
     gap: 64px;
-    margin-left: 128px;
+    margin: 80px 0px;
     
+
 }
 
 .hero{
