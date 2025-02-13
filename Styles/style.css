@@ -19,7 +19,6 @@ header{
 }
 .bd{
     padding-left:44.8px;
-
     width: 497.6px;
     text-align: top left;
     font-size: 23px;
@@ -216,15 +215,45 @@ gap:19.2px ;
     padding: 8.8px 16px 8.8px 16px;
 }
 
-.bls-1{
-   
+.donet{
+    text-align: center;
+    font-size: 32px;
+}
+.donet-p{
+    color: rgba(14, 14, 14, 0.7);
+    gap:  9.6px;
+    font-size: 12.8px;
+    font-weight: 320px;
+    line-height: 19.2px;
+    margin: 9.6px 0px;
+    text-align: center;
 
 }
 
-.blns{
-   
+.donet-box{
+display: flex;
+flex-direction: row;
+padding: 32px;
+margin-left: 128px;
+margin-right: 128px;
+
 
 }
+.donet-card{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+        border-radius: 12.4px;
+        background: rgb(255, 255, 255);
+        padding:30px;
+        box-sizing: border-box;;
+        gap: 24px;
+        width: 240px;
+        text-align: center;
+        margin: 0px 24px;
+}
+
+
+
+
 
 
 
